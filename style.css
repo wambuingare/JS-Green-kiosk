@@ -1,0 +1,17 @@
+body{
+    height: 40%;
+ }
+ul li{
+margin-left: 20px;
+}
+
+#fruList {
+    display: flex;
+    margin-left: 15%;
+    border-radius: 20px;
+} 
+/* var image = document.createElement("img")
+var pic=document.pictureInPictureElement("Fruits-and-Vegetables.jpg")
+image.appendChild(pic)
+var add=document.getElementById("backg")
+add.append(image) */
